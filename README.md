@@ -1,10 +1,8 @@
-# password-strength-task6
-Cybersecurity Internship Task 6 – Password Evaluation Report
 # 🔐 Cyber Security Internship - Task 6: Password Strength Evaluation
 
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-blue)
-![Tool](https://img.shields.io/badge/Tool-Kaspersky-red)
+![Tool](https://img.shields.io/badge/Tool-Password_Strength_Meter-brightgreen)
 
 ---
 
