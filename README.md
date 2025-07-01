@@ -1,7 +1,6 @@
 # 🔐 Cyber Security Internship - Task 6: Password Strength Evaluation
 
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-blue)
 ![Tool](https://img.shields.io/badge/Tool-Password_Strength_Meter-brightgreen)
 
 ---
@@ -68,12 +67,6 @@ Evaluate multiple passwords using online strength tools to understand what makes
 ## 🔗 Tools Used
 
 - [Password Strength Meter ](https://www.passwordmonster.com/)
-
----
-
-## 🧾 License
-
-This project is released under the [MIT License](LICENSE).
 
 
 
